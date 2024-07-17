@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-404-tsx","path":"/404/","result":{"data":{"dataJson":{"content":{"errorCode":"404","errorMessage":"You just hit a route that doesn't exist..."}}},"pageContext":{}},"staticQueryHashes":["3820661794"]}
+{"componentChunkName":"component---src-pages-404-tsx","path":"/404/","result":{"data":{"dataJson":{"content":{"pageTitle":"Page not found","errorCode":"404","errorMessage":"You just hit a route that doesn't exist..."}}},"pageContext":{}},"staticQueryHashes":["3820661794"]}
